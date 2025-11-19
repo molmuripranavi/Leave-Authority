@@ -65,6 +65,6 @@ Andorid Studio
 ## TimeLine: 3 weeks
 ## Meet TEAM MEMBERS
 **Team number-14**
-* **TEAMMATE-1 - Meghana , 24WH1A6, 2ND YEAR CSE-D**
+* **TEAMMATE-1 - Meghana ,  2ND YEAR**
 * **TEAMMATE-2 - M Pranavi , 24WH1A6647, 2ND YEAR AIML**
 * **TEAMMATE-3 - K Jyothi Akshaya , 24WH1A6648, 2ND YEAR AIML**
