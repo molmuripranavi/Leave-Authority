@@ -1,4 +1,4 @@
-# Leave-Authority
+## Leave-Authority
 ## Problem Statement : 
 The current leave approval process in colleges for both day scholars and hostelers is manual, time‑consuming, and often leads to delays, miscommunication, and lack of proper tracking. Students need permission from class teachers and the Head of Department (HOD) for academic leave, and hostelers additionally require approval for outings . Therefore, there is a need to develop a Smart Leave Application App that allows students to submit leave and outing requests digitally and enables faculty and hostel authorities to review, approve, or reject requests efficiently
 
