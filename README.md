@@ -33,15 +33,12 @@ Receive notifications on approval/rejection
 **System Features:**
 * Leave workflow: Student → Class Teacher → HOD
 * Database for storing leave records securely
-* Automatic notifications (push/SMS/email—any one required)
+* Automatic notifications (SMS/email)
 
 **Good-to-Have Features:**
 **Student Side:**
 * Multi-date continuous leave selection
 * Upload documents (medical certificate, etc.)
-* Leave balance tracking (if applicable)
-* In-app chat/help support
-* Dark mode
 
 **Teacher/HOD Side:**
 * Advanced filters (by date, section, student, status)
